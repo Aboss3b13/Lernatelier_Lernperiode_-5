@@ -14,3 +14,9 @@ Heute habe ich über die vergangene Lernperiode reflektiert und bin zu folgendem
 - [ ] Ich will an meinem Website, dass ich in meiner Freizeit für den Modul 293 weiterarbeiten
 - [ ] Ich will ein gutes Gefühl mit HTML und CSS bekommen, indem ich experimentiere und neue Begriffe in die zwei Sprachen lerne
 
+Heute habe ich an meiner Website Projekt weiter gearbeitet. Ich habe probiert in HTML Web Pages zu kreieren und mit Hilfe von CSS diese mit Animationen und Farben zu gestalten. Ich habe probiert ein Menu zu programmieren das die verschiedene Web Pages entält. Für mein KI Projekt mit Neo habe ich noch eine Methode probiert den Programm zu programmieren, sodass es die richtige Wörter findet.
+
+24.05.2024
+- [ ] Ich will an meinem Website, dass ich in meiner Freizeit für den Modul 293 weiterarbeiten.
+- [ ] Ich will den Menu Bar funtionieren zu kriegen, sodass es die Web Pages anzeigt wenn ich mein Maus darüber tue.
+- [ ] Îch will den Hintergrund verändern das es durch Scrolling Animationen durchführt.
