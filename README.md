@@ -11,8 +11,6 @@ In den letzten Lerperiode habe ich mit Hilfe von neo ein Word Identifier (Satz K
 Heute habe ich über die vergangene Lernperiode reflektiert und bin zu folgendem Schluss gekommen: Ich möchte mein KI-Projekt mit Neo fortsetzen. Zuerst habe ich versucht, den Word Identifier zu verbessern, jedoch bin ich wie in der vorherigen Lektion nicht näher an das erwartete Ergebnis herangekommen. Danach habe ich am Modul 106 weitergearbeitet.
 
 17.05.2024
-- [ ] Ich will weiter am KI Projekt arbeiten
-- [ ] Ich will alle Daten in Excel in SQL übernehmen
-- [ ] Ich will die Vorlage des Wortaufbau Tabellen erstellen
-- [ ] Falls nötig arbeite ich am Modul weiter
+- [ ] Ich will an meinem Website, dass ich in meiner Freizeit für den Modul 293 weiterarbeiten
+- [ ] Ich will ein gutes Gefühl mit HTML und CSS bekommen, indem ich experimentiere und neue Begriffe in die zwei Sprachen lerne
 
