@@ -1,0 +1,112 @@
+/* styles.css */
+
+/* Set the background color of the body */
+body {
+    background-image: url('bcb4b634-a47f-473c-8b17-663b506b41e6.png'), linear-gradient(to bottom, rgba(0, 0, 0, 0), black 100%); /* Replace 'bcb4b634-a47f-473c-8b17-663b506b41e6.png' with the path to your background image */
+    background-size: contain, 100% 100%; /* Ensure the background image is contained within the viewport */
+    background-repeat: no-repeat, repeat-x; /* Do not repeat the background image */
+    background-position: center top, center bottom; /* Align the background image at the center */
+    height: 100vh; /* Set the height of the body to the viewport height */
+    background-color: black; /* Set background color to black */
+    color: white; /* Set text color to white */
+    transition: opacity 0.5s; /* Add transition effect for opacity */
+    opacity: 1; /* Ensure initial opacity is set to 1 */
+}
+
+/* Center the text */
+.centered-text {
+    text-align: center;
+}
+
+/* Decrease the size of the image */
+img {
+    width: 150px; /* Initial width */
+    height: auto; /* Maintain aspect ratio */
+    transition: transform 0.3s ease, margin-left 0.3s ease, margin-top 0.3s ease; /* Apply transition effect for transform and margins */
+    margin-left: 0; /* Reset margin */
+    margin-top: 0; /* Reset margin */
+}
+
+/* Grow and move the image when hovered */
+label:hover img {
+    transform: scale(1.1); /* Increase the size by 10% */
+}
+
+/* Move 300px to the right and 100px down when checkbox is checked */
+input[type="checkbox"] {
+    display: none; /* Hide the checkbox */
+}
+
+/* Move 300px to the right and 100px down when checkbox is checked */
+input[type="checkbox"]:checked + label img {
+    transform: translate(300px, 100px) scale(3.1); /* Move 300px to the right and 100px down, and maintain the scale when clicked */
+}
+
+/* vector_homepage.css */
+
+/* Menu icon */
+.hover-rotate-menu {
+    width: 50px; /* Adjust as needed */
+    height: auto;
+    transition: transform 0.3s ease; /* Add transition effect */
+}
+
+/* Rotate the menu icon when hovered */
+.hover-rotate-menu:hover {
+    transform: rotate(90deg); /* Rotate by 360 degrees */
+}
+
+/* Navigation links */
+a {
+    color: orange;
+    text-decoration: none;
+}
+
+/* Navigation link hover effect */
+a:hover {
+    text-decoration: underline;
+}
+/* vector_homepage.css */
+
+/* Dropdown container */
+.dropdown {
+    position: relative;
+    display: inline-block;
+}
+
+/* Dropdown button */
+.dropbtn {
+    background-color: transparent;
+    color: orange;
+    font-size: 16px;
+    border: none;
+    cursor: pointer;
+}
+
+/* Dropdown content (hidden by default) */
+.dropdown-content {
+    display: none;
+    position: absolute;
+    background-color: #f9f9f9;
+    min-width: 160px;
+    z-index: 1;
+}
+
+/* Links inside the dropdown */
+.dropdown-content a {
+    color: black;
+    padding: 12px 16px;
+    text-decoration: none;
+    display: block;
+}
+
+/* Change color of dropdown links on hover */
+.dropdown-content a:hover {
+    background-color: #f1f1f1;
+}
+
+/* Show the dropdown menu on hover */
+.dropdown:hover .dropdown-content {
+    display: block;
+}
+
