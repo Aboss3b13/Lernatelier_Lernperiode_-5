@@ -20,3 +20,16 @@ Heute habe ich an meiner Website Projekt weiter gearbeitet. Ich habe probiert in
 - [ ] Ich will an meinem Website, dass ich in meiner Freizeit für den Modul 293 weiterarbeiten.
 - [ ] Ich will den Menu Bar funtionieren zu kriegen, sodass es die Web Pages anzeigt wenn ich mein Maus darüber tue.
 - [ ] Îch will den Hintergrund verändern das es durch Scrolling Animationen durchführt.
+
+31.05.2024
+
+- [ ] Ich will an Modul 122 weiterarbeiten
+- [ ] Ich will die Grundlage für ein Spiel 2048 aufbauen.
+
+Ich habe heute vorallem am Modul 122 weitergearbeitet, da es ein Priorität ist. Ich habe an die Aufgaben 1708, 1709, 1710 und 1711 gearbeitet. Ich habe gelernt was Pipelines sind, was Punktnotation ist ,wie man in PowerShell sortiert, projizieret und filtriert, und Kontrollstrukturen gelernt. Ich habe nacher zu C# gewechselt und habe ein Windows Form erstellt und habe den Layout für 2048 aufgebaut. nächstes Mal will ich die ersten paar Linien von Code schreiben.
+
+06.06.2024
+- [ ] Ich will weitern an mein Spiel 2048 programmieren
+- [ ] Ich will den logischen Plan für den Code erstellen
+- [ ] Dann diesen Plan implementieren, als Code
+- [ ] Ein Neues Thema in HTML / CSS lernen
