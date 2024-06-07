@@ -29,5 +29,5 @@ Heute habe ich an meiner Website Projekt weiter gearbeitet. Ich habe probiert in
 Ich habe heute vorallem am Modul 122 weitergearbeitet, da es ein Priorität ist. Ich habe an die Aufgaben 1708, 1709, 1710 und 1711 gearbeitet. Ich habe gelernt was Pipelines sind, was Punktnotation ist ,wie man in PowerShell sortiert, projizieret und filtriert, und Kontrollstrukturen gelernt. Ich habe nacher zu C# gewechselt und habe ein Windows Form erstellt und habe den Layout für 2048 aufgebaut. nächstes Mal will ich die ersten paar Linien von Code schreiben.
 
 07.06.2024
-- [ ] Ich will weiter an mein Website für Modul 293 arbeiten.
+- [ ] Ich will die Navigationsbar permanent fixieren, sodass sie oben bleibt wenn ich runter scrolle. Dafür brache ich genug Medien, dass ich scrollen kann.
 - [ ] Ein Neues Thema in HTML / CSS lernen
