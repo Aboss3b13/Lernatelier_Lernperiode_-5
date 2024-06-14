@@ -31,3 +31,8 @@ Ich habe heute vorallem am Modul 122 weitergearbeitet, da es ein Priorität ist.
 07.06.2024
 - [ ] Ich will die Navigationsbar permanent fixieren, sodass sie oben bleibt wenn ich runter scrolle. Dafür brache ich genug Medien, dass ich scrollen kann.
 - [ ] Ein Neues Thema in HTML / CSS lernen
+Ich habe heute an meinem LB Projekt weiter gearbeitet. Ich hatte den Problem das mein Navigation Bar sich nicht fixiert ist. Ich habe dies heute gelöst. Nach dem habe ich gegonnen Java Script zu lernen.
+
+14.06.2024
+- [ ] Am Mittwoch habe ich begonnen ein Kalendar zu programmieren. Ich will an dies heute wieter daran arbeiten.
+- [ ] Ich will ein neues Projekt starten. Der Spiel 2048. Ich will den Layout gestalten in win Forms.
