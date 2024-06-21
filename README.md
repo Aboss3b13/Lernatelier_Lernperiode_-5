@@ -36,3 +36,11 @@ Ich habe heute an meinem LB Projekt weiter gearbeitet. Ich hatte den Problem das
 14.06.2024
 - [ ] Am Mittwoch habe ich begonnen ein Kalendar zu programmieren. Ich will an dies heute wieter daran arbeiten.
 - [ ] Ich will ein neues Projekt starten. Der Spiel 2048. Ich will den Layout gestalten in win Forms.
+
+Ich habe heute in weiter an mein LB Projekt für den Modul 293 gearbeitet. Ich habe weiter an einem Kalender auf dieser Website programmiert. Durch dem habe ich Java Script durch CHatGPT und W3Schools gelernt. Nach dem habe ich begonnen den Layout auf Win Forms für mein freiwilliges Projekt 2048 gestalten.
+
+21.06.2024
+- [ ] Ich werde an meinen LB für Modul 122 arbeiten. Ich muss zuerst ein Idee finden für ein Projekt
+- [ ] Ich werde dann diese Idee in ein PAP umwandeln.
+- [ ] Ich werde dann dieser PAP in ein funtionierenden Skript umwandeln auf Powershell.
+- [ ] Ich werde zu alles dokumentieren.
