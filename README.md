@@ -44,3 +44,10 @@ Ich habe heute in weiter an mein LB Projekt für den Modul 293 gearbeitet. Ich h
 - [ ] Ich werde dann diese Idee in ein PAP umwandeln.
 - [ ] Ich werde dann dieser PAP in ein funtionierenden Skript umwandeln auf Powershell.
 - [ ] Ich werde zu alles dokumentieren.
+   
+Heute habe ich am den LB für Modul 122 weitergearbeitet. Mein Ziel war ein Skript zu schreiben, dass ein Backup / Kopie von mein BBB Ordner macht und es in ein anderen Speicherort speichert. Diese Backup sollte jede Minute passieren. Doch heute habe ich nur den Backup Teil geschafft. Dies funtioniert ohne Mängel.
+
+- [ ] Ich will nächste Woche an mein Spiel 2048 weiterarbeiten. Ich werde die textfelder so konfigurieren das sie wissen in welcher Position sie sind.
+- [ ] Ich will den Program so programmieren, dass eine Nummer in einer der Textfelder erscheint.
+- [ ] Ich will die Funktion programmieren, der den Bewegung der Nummern definiert.
+
