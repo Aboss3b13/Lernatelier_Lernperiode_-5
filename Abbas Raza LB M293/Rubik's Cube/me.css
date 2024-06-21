@@ -1,0 +1,253 @@
+/* me.css */
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    font-family: Arial, sans-serif;
+    background-color: #002244; /* Slightly darker blue */
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    flex-direction: column;
+}
+
+header {
+    background: #fff;
+    border-bottom: 1px solid #ddd;
+}
+
+.top-bar {
+    background-color: #003366;
+    padding: 10px 0;
+    color: #fff;
+    position: fixed;
+    width: 100%;
+    left: 0;
+    top: 0;
+}
+
+/* Style for links in the header */
+header a {
+    color: white;
+    text-decoration: none;
+}
+
+/* Style for links when hovered */
+header a:hover {
+    color: orange;
+    transition: color 0.3s ease;
+}
+
+.top-bar .container {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    max-width: 1200px;
+    margin: 0 auto;
+    padding: 0 20px;
+}
+
+.container {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    max-width: 1200px;
+    margin: 0 auto;
+    padding: 20px 0;
+}
+
+.logo a {
+    color: #003366;
+    font-size: 24px;
+    text-decoration: none;
+    font-weight: bold;
+}
+
+.logo span {
+    display: block;
+    font-size: 14px;
+    color: #666;
+}
+
+nav {
+    flex-grow: 1;
+    margin-left: 20px;
+}
+
+.nav-links {
+    list-style: none;
+    display: flex;
+    gap: 20px;
+    background: #003366;
+    padding: 10px 20px;
+    border-radius: 5px;
+}
+
+.nav-links li {
+    margin: 0;
+}
+
+.nav-links a {
+    color: #fff;
+    text-decoration: none;
+    font-size: 16px;
+    transition: color 0.3s ease;
+}
+
+.nav-links a:hover {
+    color: #f26522;
+}
+
+.contact-info {
+    text-align: right;
+    display: flex;
+    align-items: center;
+    gap: 20px;
+}
+
+.contact-info p {
+    margin: 0;
+    font-size: 14px;
+    color: #fff;
+}
+
+.contact-info strong {
+    color: #f26522;
+}
+
+.cta-button {
+    background: #f26522;
+    color: #fff;
+    padding: 10px 20px;
+    text-decoration: none;
+    border-radius: 5px;
+    transition: background 0.3s ease;
+}
+
+.cta-button:hover {
+    background: #d04b1a;
+}
+
+.logo img {
+    max-width: 35px;
+    height: auto;
+}
+
+.calendar-container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    margin-top: 100px; /* To avoid overlap with fixed header */
+}
+
+.clock-container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-bottom: 20px;
+}
+
+.clock {
+    font-size: 2rem;
+    color: white;
+    scale: 2;
+    position: relative; /* or absolute, fixed, sticky */
+  top: -50PX; /* adjust these values as needed */
+}
+
+.calendar {
+    width: 500px;
+    border: 1px solid #ccc;
+    box-shadow: 0 0 10px rgba(0,0,0,0.1);
+    background-color: #b7b4b4;
+    position: relative;
+}
+
+.month {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 20px;
+    background-color: #d0751a;
+    color: #fff;
+}
+
+.month button {
+    background: none;
+    border: none;
+    color: #fff;
+    font-size: 20px;
+    cursor: pointer;
+}
+
+.days, .dates {
+    display: flex;
+    flex-wrap: wrap;
+}
+
+.day, .date {
+    width: 14.28%;
+    padding: 20px;
+    box-sizing: border-box;
+    text-align: center;
+    border: 1px solid #eee;
+}
+
+.day {
+    background-color: #d0751a;
+    color: #fff;
+    font-weight: bold;
+}
+
+.date {
+    cursor: pointer;
+    transition: background-color 0.3s;
+}
+
+.date:hover {
+    background-color: #f1f1f1;
+}
+
+.date.today {
+    background-color: #d0751a;
+    color: #fff;
+}
+
+
+
+.stopwatch-container {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.stopwatch {
+    font-size: 2rem;
+    color: white;
+    margin-bottom: 20px;
+}
+
+.stopwatch-controls {
+    display: flex;
+    gap: 10px;
+}
+
+.stopwatch-controls button {
+    padding: 10px 20px;
+    font-size: 1rem;
+    cursor: pointer;
+    border: none;
+    background-color: #007BFF;
+    color: #fff;
+    border-radius: 5px;
+    transition: background-color 0.3s;
+}
+
+.stopwatch-controls button:hover {
+    background-color: #0056b3;
+}

@@ -1,0 +1,67 @@
+/* styles.css */
+body {
+    font-family: Arial, sans-serif;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    margin: 0;
+    background-color: #f4f4f4;
+}
+
+.calendar {
+    width: 300px;
+    border: 1px solid #ccc;
+    box-shadow: 0 0 10px rgba(0,0,0,0.1);
+    background-color: #fff;
+}
+
+.month {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 20px;
+    background-color: #007BFF;
+    color: #fff;
+}
+
+.month button {
+    background: none;
+    border: none;
+    color: #fff;
+    font-size: 20px;
+    cursor: pointer;
+}
+
+.days, .dates {
+    display: flex;
+    flex-wrap: wrap;
+}
+
+.day, .date {
+    width: 14.28%;
+    padding: 10px;
+    box-sizing: border-box;
+    text-align: center;
+    border: 1px solid #eee;
+}
+
+.day {
+    background-color: #007BFF;
+    color: #fff;
+    font-weight: bold;
+}
+
+.date {
+    cursor: pointer;
+    transition: background-color 0.3s;
+}
+
+.date:hover {
+    background-color: #f1f1f1;
+}
+
+.date.today {
+    background-color: #007BFF;
+    color: #fff;
+}
